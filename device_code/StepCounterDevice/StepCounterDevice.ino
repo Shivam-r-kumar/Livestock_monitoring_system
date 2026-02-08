@@ -12,8 +12,8 @@
 #define WIFI_PASSWORD "1234567890"
 
 // ====================== FIREBASE ======================
-#define dbUrl "https://teamvajra-3595e-default-rtdb.firebaseio.com/"
-#define key "JUd6Bz7TuSdYnLS3PTITRQDqsY6c1gtYXejYohoF"
+#define dbUrl "YOUR_URL"
+#define key "YOUR_SECRET"
 
 // ====================== MPU6050 ======================
 #define MPU_ADDR 0x68
