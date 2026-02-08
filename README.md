@@ -51,6 +51,7 @@ All collected data is sent to the cloud and displayed on a **live web dashboard*
 - Responsive design for mobile and desktop browsers  
 
 ## Project Structure
+```
  Smart-Livestock-Health-Monitoring-System/
  ├── index.html # Web dashboard
  ├── style.css # Dashboard styling
@@ -61,6 +62,7 @@ All collected data is sent to the cloud and displayed on a **live web dashboard*
  │ └── stepcounter_device/ # ESP32 code for step counter device
  │ └── stepcounter_device.ino
  └── README.md # Project documentation
+```
 
 ## Target Audience
 - Livestock and dairy farmers  
