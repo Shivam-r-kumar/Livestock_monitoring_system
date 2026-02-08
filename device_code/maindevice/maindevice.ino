@@ -18,8 +18,8 @@
 #define WIFI_PASSWORD "1234567890"
 
 // ===== FIREBASE =====
-#define DATABASE_URL "https://teamvajra-3595e-default-rtdb.firebaseio.com/"
-#define FIREBASE_SECRET "JUd6Bz7TuSdYnLS3PTITRQDqsY6c1gtYXejYohoF"
+#define DATABASE_URL "YOUR_URL"
+#define FIREBASE_SECRET "YOUR_SECRET"
 
 // ===== LED =====
 #define LED_PIN 2
